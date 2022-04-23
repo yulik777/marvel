@@ -22,8 +22,20 @@ const marvels = [{
   name: "Halk",
   universe: "Marvel Comics" ,
   occupation: "superhero, justice fighter, biochemist",
-  superpowers: "superhuman strength and speed, stamina, flight",
-}]
+  superpowers: "superhuman strength and speed, stamina, flight"
+},{
+  url: "https://image.api.playstation.com/vulcan/img/rnd/202010/2122/19xis9VT5XfnXsLSMkxUjvVd.png?w=440",
+  name: "Spiderman",
+  universe: "Marvel Comics" ,
+  occupation: "justice fighter, student, photographer",
+  superpowers: "superhuman reflexes, ability to stick to solid surfaces, web production"
+},{
+    url: "https://i.guim.co.uk/img/media/0fafd28d4c0d967ad2022cd8e0a3360240e4beba/0_395_1200_719/master/1200.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ffcbd2eb779151f2d17f7c753f07c285",
+    name: "Wonder Woman",
+    universe: "DC Comics",
+    occupation: "superheroine, secretary-referent",
+    superpowers: "superhuman strength and speed, endurance, flight"
+  }]
 
 class App extends React.Component { 
   render() {
