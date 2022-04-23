@@ -1,0 +1,16 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+.container{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    background-color: pink;
+}
+.marvels-name{
+    color: rgb(69, 65, 65);
+    font-size: larger;
+}
+
